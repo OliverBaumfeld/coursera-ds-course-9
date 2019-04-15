@@ -7,4 +7,4 @@ The app is currently (15.April 2019) hosted on shinyapps.io:
 https://obaumfeld.shinyapps.io/week4-assignment/ 
 
 The required pitch presentation for the app is hosted on Rpubs:  
-https://rpubs.com/OliverB/c9week4shiny
+http://rpubs.com/OliverB/c9week4shiny
